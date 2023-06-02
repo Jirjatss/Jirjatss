@@ -28,7 +28,7 @@ console.log('my Name is M Hijir Sajad')
 
 <img  align="left"  alt="React"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img  align="left"  alt="React"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" />
+<img  align="left"  alt="React"  width="30px"  style="padding-right:10px;"  src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 
 
 <img  width="30px"  align="left"  alt="vscode"  style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
