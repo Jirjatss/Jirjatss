@@ -28,7 +28,7 @@
 ### 📞 Contact me!
 
 [![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jirjatss/)
-[![LinkedIn][(https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridho-ray-25aa13236/](https://www.linkedin.com/in/hijir-sajad-363756247/))
+[![LinkedIn][(https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hijir-sajad-363756247/)
 [![Whatsapp](https://wa.me/6281233623106)
 
 
