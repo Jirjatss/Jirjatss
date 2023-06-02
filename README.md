@@ -25,4 +25,7 @@
 <img  width="30px"  align="left"  alt="vscode"  style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
 
-## Statistic
+ <a href=#><img src="contributions.svg"></a>
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jirjatss/count.svg" />
