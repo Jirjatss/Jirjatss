@@ -37,6 +37,6 @@
 
 
 
-  <p align="left"> 
-  Visitor count<br><br>
+  <p align="center"> 
+  Visitor count<br><hr>
   <img src="https://profile-counter.glitch.me/jirjatss/count.svg" />
