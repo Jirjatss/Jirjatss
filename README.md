@@ -38,5 +38,5 @@
 
 
   <p align="left"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/jirjatss/count.svg" />
