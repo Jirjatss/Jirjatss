@@ -5,7 +5,7 @@
 
  
  <p>
- Hello everyone, My name is M Hijir Sajad but u can call me Sajad. I am Junior Frontend Developer. I have a solid understanding of HTML, CSS, Bootstrap,JavaScript, Reactjs, Vuejs, and Tailwind CSS. I am always striving to improve my skills and stay updated with the latest web technologies. I am a fast learner, team player, and committed to delivering high-quality work. I am excited about the opportunity to apply my skills and knowledge in a professional setting and grow my career as a Junior Frontend Developer
+ Hello everyone, My name is M Hijir Sajad, but you can call me Sajad. I am Frontend Developer. I have a solid understanding of HTML, CSS, Bootstrap,JavaScript, Reactjs, Vuejs, and Tailwind CSS. I am always striving to improve my skills and stay updated with the latest web technologies. I am a fast learner, team player, and committed to delivering high-quality work. I am excited about the opportunity to apply my skills and knowledge in a professional setting and grow my career as a Frontend Developer
  </p>
  <br />
  <br />
