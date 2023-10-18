@@ -10,14 +10,9 @@
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
- <style>
-  img {
-    margin-bottom: 10px; /* Sesuaikan dengan nilai margin yang diinginkan */
-  }
-</style>
 ## 🧰 Skills
 #### Frontend
-<div style="position:flex;padding-bottom:10px;gap:15px" >
+<div style="position:flex" >
 <img  align="left"  alt="GitHub"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img  align="left"  alt="HTML"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  align="left"  alt="CSS"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
