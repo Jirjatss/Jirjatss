@@ -9,9 +9,10 @@
  </p>
  <br />
  <br />
- <div position="flex">
+ <div>
   <div align="left">
-  <img  src="https://www.codewars.com/users/Jirjatss/badges/large" />
+  <img  src="https://www.codewars.com/users/Jirjatss/badges/small" />
+   <br />
   ### 📞 Contact me!
 
    [![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jirjatss/)
