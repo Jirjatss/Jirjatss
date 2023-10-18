@@ -6,7 +6,7 @@
  Hello everyone, My name is M Hijir Sajad, but you can call me Sajad. I am Software Developer. I am always striving to improve my skills and stay updated with the latest web technologies. I am a fast learner, team player, and committed to delivering high-quality work. I am excited about the opportunity to apply my skills and knowledge in a professional setting and grow my career as a Software Developer
  </p>
  <br />
- <br />
+ 
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-## 📞 Contact me!
+## 📞 Contact Me!
 
 [![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jirjatss/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hijir-sajad-363756247/)
