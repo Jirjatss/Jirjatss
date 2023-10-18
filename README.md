@@ -10,7 +10,7 @@
  <br />
  <br />
  <div>
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="full" height="400" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="400" />
  </div>
  <div align="center">
   <img  src="https://www.codewars.com/users/Jirjatss/badges/large" />
