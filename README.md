@@ -9,7 +9,12 @@
  
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 
+
+ <style>
+  img {
+    margin-bottom: 10px; /* Sesuaikan dengan nilai margin yang diinginkan */
+  }
+</style>
 ## 🧰 Skills
 #### Frontend
 <div style="position:flex;padding-bottom:10px;gap:15px" >
