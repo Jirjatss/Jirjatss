@@ -9,23 +9,21 @@
  </p>
  <br />
  <br />
- <div>
-  <div align="left">
-  <img  src="https://www.codewars.com/users/Jirjatss/badges/small" />
-   <br />
+ 
+<div align="left">
+  <img src="https://www.codewars.com/users/Jirjatss/badges/small" /><br />
   📞 Contact me!
-
-   [![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jirjatss/)
-   [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hijir-sajad-363756247/)
-
-  <p align="left"> 
+  
+  [![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jirjatss/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hijir-sajad-363756247/)
+  
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jirjatss/count.svg" />
- </div>
- <div>
+</div>
+
+<div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- </div>
- </div
+</div>
  
  
 ### 🧰 Language and tools
