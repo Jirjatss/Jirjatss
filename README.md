@@ -12,6 +12,7 @@
  
 ## 🧰 Skills
 #### Frontend
+<div style="position:flex" gap="5px">
 <img  align="left"  alt="GitHub"  width="30px"  style="padding-right:10px;margin-bottom:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img  align="left"  alt="HTML"  width="30px"  style="padding-right:10px;margin-bottom:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  align="left"  alt="CSS"  width="30px"  style="padding-right:10px;margin-bottom:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -22,6 +23,7 @@
 <img  align="left"  alt="Pinia logo" width="20px"  style="padding-right:10px;margin-bottom:10px" src="https://pinia.vuejs.org/logo.svg"  />
 <img  align="left"  alt="Bootstrap" width="30px"  style="padding-right:10px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  />
 <img  align="left"  alt="Tailwind" width="30px"  style="padding-right:10px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  />
+</div>
 <br />
 <br />
 <br />
