@@ -8,21 +8,22 @@
  <br />
  
  
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ## 🧰 Skills
 #### Frontend
-<div style="position:flex" >
+<div >
 <img  align="left"  alt="GitHub"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img  align="left"  alt="HTML"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  align="left"  alt="CSS"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img  align="left"  alt="JavaScript"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  align="left"  alt="React"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img  align="left"  alt="Redux"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img  align="left"  alt="Redux"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />  
 <img  align="left"  alt="Vue"  width="30px"  style="padding-right:10px;"  src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 <img  align="left"  alt="Pinia logo" width="20px"  style="padding-right:10px;" src="https://pinia.vuejs.org/logo.svg"  />
 <img  align="left"  alt="Bootstrap" width="30px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  />
 <img  align="left"  alt="Tailwind" width="30px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  />
+ </div>
 </div>
 <br />
 <br />
